@@ -8,15 +8,8 @@ Run
 =================================
 $ruby lib/run.rb
 
+```
 > I 5 6
-> S
-OOOOO
-OOOOO
-OOOOO
-OOOOO
-OOOOO
-OOOOO
-
 > L 2 3 A
 > S
 OOOOO
@@ -34,6 +27,7 @@ OWOOO
 OWOOO
 OWOOO
 OWOOO
+```
 
 Run Spec
 =================================
